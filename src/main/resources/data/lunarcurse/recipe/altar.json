@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " T ",
+    "GSG",
+    "SSS"
+  ],
+  "key": {
+    "T": {
+      "item": "minecraft:torch"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "id": "lunarcurse:altar",
+    "count": 1
+  }
+}

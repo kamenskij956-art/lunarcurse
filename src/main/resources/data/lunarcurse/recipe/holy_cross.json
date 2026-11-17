@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "lunarcurse:cross_fragment"
+    },
+    {
+      "item": "lunarcurse:silver_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "result": {
+    "id": "lunarcurse:holy_cross",
+    "count": 1
+  }
+}

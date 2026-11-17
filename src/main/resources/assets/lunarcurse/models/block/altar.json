@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "lunarcurse:block/altar_top",
+    "side": "lunarcurse:block/altar_side",
+    "bottom": "lunarcurse:block/altar_bottom"
+  }
+}

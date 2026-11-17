@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "lunarcurse",
+  "version": "0.1.0",
+  "name": "Lunar Curse",
+  "description": "Werewolf villagers, holy items and a priest.",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["dev.lunarcurse.LunarCurse"],
+    "client": ["dev.lunarcurse.client.LunarCurseClient"]
+  },
+  "depends": { "fabricloader": ">=0.16.0", "minecraft": "~1.21.1", "java": ">=21", "fabric-api": "*" }
+}

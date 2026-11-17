@@ -1,0 +1,17 @@
+{
+  "itemGroup.lunarcurse": "Lunar Curse",
+  "block.lunarcurse.altar": "Altar",
+  "block.lunarcurse.salt": "Salt",
+  "item.lunarcurse.silver_ingot": "Silver Ingot",
+  "item.lunarcurse.holy_water_bottle": "Holy Water Bottle",
+  "item.lunarcurse.incense": "Incense",
+  "item.lunarcurse.cross_fragment": "Cross Fragment",
+  "item.lunarcurse.holy_cross": "Holy Cross",
+  "item.lunarcurse.holy_water": "Holy Water",
+  "item.lunarcurse.silver_sword": "Silver Sword",
+  "item.lunarcurse.antidote": "Antidote",
+  "item.lunarcurse.werewolf_spawn_egg": "Werewolf Spawn Egg",
+  "entity.lunarcurse.werewolf": "Werewolf",
+  "effect.lunarcurse.lunar_fever": "Lunar Fever",
+  "entity.minecraft.villager.lunarcurse.priest": "Priest"
+}

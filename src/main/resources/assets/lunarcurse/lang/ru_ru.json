@@ -1,0 +1,17 @@
+{
+  "itemGroup.lunarcurse": "Лунное проклятие",
+  "block.lunarcurse.altar": "Алтарь",
+  "block.lunarcurse.salt": "Соль",
+  "item.lunarcurse.silver_ingot": "Серебряный слиток",
+  "item.lunarcurse.holy_water_bottle": "Бутылка святой воды",
+  "item.lunarcurse.incense": "Ладан",
+  "item.lunarcurse.cross_fragment": "Осколок креста",
+  "item.lunarcurse.holy_cross": "Святой крест",
+  "item.lunarcurse.holy_water": "Святая вода",
+  "item.lunarcurse.silver_sword": "Серебряный меч",
+  "item.lunarcurse.antidote": "Антидот",
+  "item.lunarcurse.werewolf_spawn_egg": "Яйцо призыва оборотня",
+  "entity.lunarcurse.werewolf": "Оборотень",
+  "effect.lunarcurse.lunar_fever": "Лунная лихорадка",
+  "entity.minecraft.villager.lunarcurse.priest": "Священник"
+}

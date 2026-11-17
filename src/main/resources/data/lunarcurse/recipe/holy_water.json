@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "lunarcurse:holy_water_bottle"
+    },
+    {
+      "item": "lunarcurse:incense"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "id": "lunarcurse:holy_water",
+    "count": 1
+  }
+}
