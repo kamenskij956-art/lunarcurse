@@ -6,6 +6,7 @@ import net.minecraft.client.model.*;
 import net.minecraft.client.render.entity.model.BipedEntityModel;
 import net.minecraft.client.render.entity.model.CrossbowPosing;
 import net.minecraft.client.render.entity.model.EntityModelLayer;
+import net.minecraft.client.render.entity.model.EntityModelPartNames;
 
 /** Biped body + wolf snout, ears and tail. Texture: textures/entity/werewolf.png (64x64). */
 public class WerewolfModel extends BipedEntityModel<WerewolfEntity> {
